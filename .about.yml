@@ -1,0 +1,22 @@
+---
+name: working_groups
+full_name: Onboarding Working Group
+type: docs
+owner_type: "working-group"
+status: active
+testable: false
+description: >
+  We facilitate the onboarding experience.  
+stage: live
+licenses:
+  wg-onboarding:
+    name: Public Domain (CC0)
+    url: https://creativecommons.org/publicdomain/zero/1.0/ 
+links:
+- url: https://github.com/18F/onboarding-documents
+  text: 18F Onboarding Checklists
+team:
+- github: melodykramer
+  role: lead
+- github: andrewmaier
+  role: lead
